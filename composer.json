@@ -1,6 +1,7 @@
 {
-  "name": "juliansansat/pagseguro-php-sdk",
+  "name": "JulianSansat/pagseguro-php-sdk",
   "description": "Biblioteca de integração com o PagSeguro",
+  "type": "project",
   "repositories":
   [
           {
