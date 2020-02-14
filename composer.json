@@ -1,5 +1,5 @@
 {
-  "name": "JulianSansat/pagseguro-php-sdk",
+  "name": "juliansansat/pagseguro-php-sdk",
   "description": "Biblioteca de integração com o PagSeguro",
   "repositories":
   [
@@ -9,11 +9,6 @@
           }
   ],
   "license": "Apache-2.0",
-  "authors": [
-    {
-      "name": "PagSeguro"
-    }
-  ],
   "require": {
     "uol-pagseguro-moscou/pagseguro-php-sdk": "dev-master"
   },
