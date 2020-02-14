@@ -1,6 +1,13 @@
 {
-  "name": "uol-pagseguro-moscou/pagseguro-php-sdk",
+  "name": "JulianSansat/pagseguro-php-sdk",
   "description": "Biblioteca de integração com o PagSeguro",
+  "repositories":
+  [
+          {
+              "type": "vcs",
+              "url": "https://github.com/JulianSansat/pagseguro-php-sdky"
+          }
+  ],
   "license": "Apache-2.0",
   "authors": [
     {
@@ -8,6 +15,7 @@
     }
   ],
   "require": {
+    "uol-pagseguro-moscou/pagseguro-php-sdk": "dev-master",
     "php": "^7.1.3",
     "ext-curl": "*",
     "lib-curl": "*",
